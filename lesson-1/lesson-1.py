@@ -5,6 +5,9 @@ print(soz[0])
 print(soz[11])
 print(soz[-2])
 
+'''
+
+'''
 
 
 #string slicing
