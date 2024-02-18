@@ -26,7 +26,4 @@ while(f2 < enter_number):
 # i = 0
 # temp = i+1
 # res = 0
-# while(i < len(array)-1):
-#     res = array[i] + array[temp]
-#     print(res)
-#     i +=1
+
