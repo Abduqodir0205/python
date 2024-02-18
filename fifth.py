@@ -19,9 +19,4 @@ while(f2 < enter_number):
 # son = 1
 # index = 0
 
-# while (index < enter_number):
-#     array.append(index+1)
-#     index +=1
-
-
 
