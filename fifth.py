@@ -8,14 +8,3 @@ while(f2 < enter_number):
     f1 = f2
     f2 = sum
     print(sum)
-
-
-
-
-
-
-# array = []
-
-
-
-
