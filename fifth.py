@@ -13,3 +13,20 @@ while(f2 < enter_number):
 
 
 
+
+# array = []
+
+# son = 1
+# index = 0
+
+# while (index < enter_number):
+#     array.append(index+1)
+#     index +=1
+
+# i = 0
+# temp = i+1
+# res = 0
+# while(i < len(array)-1):
+#     res = array[i] + array[temp]
+#     print(res)
+#     i +=1
