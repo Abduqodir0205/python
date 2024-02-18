@@ -23,7 +23,5 @@ while(f2 < enter_number):
 #     array.append(index+1)
 #     index +=1
 
-# i = 0
-# temp = i+1
-# res = 0
+
 
