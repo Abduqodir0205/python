@@ -16,7 +16,6 @@ while(f2 < enter_number):
 
 # array = []
 
-# son = 1
-# index = 0
+
 
 
